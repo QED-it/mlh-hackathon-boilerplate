@@ -24,21 +24,21 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "The Future of Digital Securities Hackathon"
+  description: "The Israeli Securities Authorities (ISA) introduces the first hackathon focused on digital securities."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  name:        "The Future of Difital Securities Hackathon"
+  description: "The Israeli Securities Authorities (ISA) introduces the first hackathon focused on digital securities."
+  date:        "15 & 16 November 2021"
+  location:    "Tel Aviv, Israel"
 
   trust_badge:
-    year:   "2017"  # season year
+    year:   "2021"  # season year
     region: "eu"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
@@ -80,13 +80,12 @@ event:
     - question: "How much does it cost?"
       answer: >
         Nothing. Attending a hackathon is free.
-    - question: "Do I need to be a student to attend?"
+    - question: "Can anyone join the hackathon?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        Yes. If you are a developer, a researcher, a product person, a designer, a project manager or a community lead, you can join the hackathon with a team.
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at [insert venue location here].
+        The exact venue will be published in the coming weeks.
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
